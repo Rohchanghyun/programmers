@@ -9,16 +9,16 @@
     <details>
         <summary>Hash</summary>
             <div markdown="1">
-            완주하지 못한 선수
+            - 완주하지 못한 선수
             </div>
             <div markdown="1">
-            전화번호 목록
+            - 전화번호 목록
             </div>
     </details>
     <details>
         <summary>2022 KAKAO BLIND RECRUITMENT</summary>
             <div markdown="1">
-            신고 결과 받기
+            - 신고 결과 받기
             </div>
     </details>
 </details>

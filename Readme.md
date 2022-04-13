@@ -5,7 +5,7 @@
 내가 풀었던 [Programmers](https://programmers.co.kr/learn/challenges?tab=all_challenges) 의 solution 을 모아둔 Repository
 
 <details>
-<summary>Solved_case</summary>
+<summary><span style="color: #88c8ff">Solved_case</span></summary>
     <details>
         <summary>Hash</summary>
             <div markdown="1">
